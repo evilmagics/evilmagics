@@ -2,15 +2,14 @@
 
 A software developer crafting elegant solutions and capturing moments through my lens.
 
-## About Me
+<a href="https://github.com/evilmagics"><img src="https://img.shields.io/github/followers/evilmagics?label=Follow&style=social" alt="Follow @evilmagics" /></a>
+<a href="https://www.linkedin.com/in/richy-saragih/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/richy.saragih"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:richy.rotuahta15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 
-I'm a software developer passionate about building robust and scalable applications.  Since 2018, I've been immersed in the world of code, exploring various technologies and contributing to exciting projects. Beyond the keyboard, I find solace and inspiration behind the camera, indulging in my love for photography.
-
-<a href="https://github.com/evilmagics">
-  <img src="https://img.shields.io/github/followers/evilmagics?label=Follow&style=social" alt="Follow @evilmagics" />
-</a>
 
 ## Tech Stack
+[Go](https://img.shields.io/badge/go?logo=go&logoColor=white)
 
 I'm proficient in the following languages and technologies:
 
@@ -33,10 +32,7 @@ When I'm not coding, you can find me exploring the world through my camera lens.
 
 ## Connect with Me
 
-*   <a href="https://github.com/evilmagics"><img src="https://img.shields.io/github/followers/evilmagics?label=Follow&style=social" alt="Follow @evilmagics" /></a>
-*   <a href="https://www.linkedin.com/in/richy-saragih/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-*   <a href="https://instagram.com/richy.saragih"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-*   <a href="mailto:richy.rotuahta15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+
 
 ## Open to Collaboration
 
