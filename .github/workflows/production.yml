@@ -30,8 +30,12 @@ jobs:
           # Options
           user: evilmagics
           template: classic
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Asia/Jakarta
+          config_padding: 30, 30
+          optimize: css, xml
+          use_prebuilt_image: yes
 
           # Plugin configuration
           plugin_lines: yes
@@ -55,3 +59,14 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
+          # Commit calendar plugin
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # Starred topics plugin
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: starred
+          plugin_topics_limit: 15
+
