@@ -33,9 +33,9 @@ When I'm not coding, you can find me exploring the world through my camera lens.
 
 ## Connect with Me
 
-*   **GitHub:** <a href="https://github.com/evilmagics"><img src="https://img.shields.io/github/followers/evilmagics?label=Follow&style=social" alt="Follow @evilmagics" /></a>
-*   **LinkedIn:** <a href="https://www.linkedin.com/in/richy-saragih/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-*   **Email:** <a href="mailto:richy.rotuahta15@gmail.com"><img src="https://img.shields.io/badge/richy.rotuahta15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+*   <a href="https://github.com/evilmagics"><img src="https://img.shields.io/github/followers/evilmagics?label=Follow&style=social" alt="Follow @evilmagics" /></a>
+*   <a href="https://www.linkedin.com/in/richy-saragih/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+*   <a href="mailto:richy.rotuahta15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ## Open to Collaboration
 
