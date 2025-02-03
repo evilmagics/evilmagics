@@ -8,4 +8,4 @@
 
 A software developer crafting elegant solutions and capturing moments through my lens.
 
-<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="100%"/></p>
+<img src="/metrics.classic.svg" alt="Metrics" width="100%"/>
