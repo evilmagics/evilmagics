@@ -30,9 +30,10 @@ jobs:
           # Options
           user: evilmagics
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ''
           base_indepth: yes
           config_timezone: Asia/Jakarta
+          config_display: columns
           optimize: css, xml
           use_prebuilt_image: yes
 
@@ -61,11 +62,24 @@ jobs:
 
           # Commit calendar plugin
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
 
-          # Starred topics plugin
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred
-          plugin_topics_limit: 15
-
+          extras_css: |
+            .field svg {
+              fill: #58b9d0;
+            }
+            .field {
+              color: #2986b8;
+            }
+            h1, h2, h3 {
+              color: #284a92 !important;
+            }
+          extras_js: |
+            for (const {a, b} of [
+              {a:"#216e39", b:"#b7dfcb"},
+              {a:"#30a14e", b:"#58b9d0"},
+              {a:"#40c463", b:"#2986b8"},
+              {a:"#9be9a8", b:"#284a92"},
+              {a:"#ebedf0", b:"#192062"},
+            ])
+            document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
