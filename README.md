@@ -9,7 +9,7 @@ A software developer crafting elegant solutions and capturing moments through my
 
 
 ## Tech Stack
-[Go](https://img.shields.io/badge/go?logo=go&logoColor=white)
+[![Go](https://img.shields.io/badge/go?logo=go&logoColor=white)](#)
 
 I'm proficient in the following languages and technologies:
 
