@@ -24,7 +24,7 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 27.6kb of code in 59 edited files across 94 commits over last 30 days</small>
+                <small>estimation from 27.5kb of code in 58 edited files across 92 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -691,7 +691,7 @@ h1, h2, h3 {
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.88333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.4 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -713,10 +713,10 @@ h1, h2, h3 {
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">403</div>
+                                        <div class="value">404</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 403 times</div>
+                                <div class="text">Repositories have been deployed 404 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1044,7 +1044,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.56m out of 240m repositories</span>
+                                    <span class="gh">ranked 5.56m out of 239m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
