@@ -164,6 +164,7 @@ h1, h2, h3 {
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#192062" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#192062" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#b7dfcb" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#2986b8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -663,7 +664,7 @@ h1, h2, h3 {
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.73 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.833333333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -685,10 +686,10 @@ h1, h2, h3 {
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1249</div>
+                                        <div class="value">1250</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1249 times</div>
+                                <div class="text">Repositories have been deployed 1250 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -962,7 +963,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.74m out of 232m repositories</span>
+                                    <span class="gh">ranked 3.74m out of 245m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
