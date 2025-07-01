@@ -1,28 +1,3 @@
-<style>
-  .icon-badges {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .icon-badges span {
-    display: inline-block;
-    flex-grow: 0;
-    flex-shrink:0;
-  }
-  @media screen and (max-width: 640px) {
-    .icon-badges { gap: 11px; }
-    .icon-badges span { flex-basis: calc(10% - 10px);}
-  }
-  @media screen and (min-width: 640px) {
-    .icon-badges { gap: 11px; }
-    .icon-badges span { flex-basis: calc(6.666% - 10px);}
-  }
-  @media screen and (min-width: 1024px) {
-    .icon-badges { gap: 16.0px;}
-    .icon-badges span { flex-basis: calc(5% - 15px);}
-  }
-</style>
-
 <div align="center">
     <img src="./assets/header.png" alt="Header Image" width="100%"/>
 </div>
@@ -53,30 +28,29 @@ I'm a passionate software engineer with a deep love for building innovative solu
 ###
 
 ### ⚔️ Languages
-<p align="left" class="icon-badges">
-    <span><img src="https://skillicons.dev/icons?i=go"  alt="Go" title="Go" /></span>
-    <span><img src="https://skillicons.dev/icons?i=py"  alt="Python" title="Python" /></span>
-    <span><img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" /></span>
-    <span><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></span>
-    <span><img src="https://skillicons.dev/icons?i=ts"  alt="TypeScript" title="TypeScript" /></span>
-    <span><img src="https://skillicons.dev/icons?i=php"  alt="PHP" title="PHP" /></span>
-    <span><img src="https://skillicons.dev/icons?i=cpp"  alt="C++" title="C++" /></span>
-    <span><img src="https://skillicons.dev/icons?i=cs"  alt="C#" title="C#" /></span>
-    <span><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></span>
-    <span><img src="https://skillicons.dev/icons?i=css"  alt="CSS3" title="CSS3" /></span>
-
+<p align="left">
+    <span><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="40" /></span>
+    <span><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="40"/></span>
 </p>
 
 ### 📚 Frameworks and Libraries
 <p align="left" class="icon-badges">
-    <span><img src="https://skillicons.dev/icons?i=flutter"  alt="Flutter" title="Flutter" /></span>
-    <span><img src="https://skillicons.dev/icons?i=laravel"  alt="Laravel" title="Laravel" /></span>
-    <span><img src="https://skillicons.dev/icons?i=tailwind"  alt="TailwindCSS" title="TailwindCSS" /></span>
-    <span><img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJs" title="NextJs" /></span>
-    <span><img src="https://skillicons.dev/icons?i=react"  alt="React" title="React" /></span>
-    <span><img src="https://skillicons.dev/icons?i=vue"  alt="Vue" title="Vue" /></span>
-    <span><img src="https://skillicons.dev/icons?i=jquery"  alt="JQuery" title="JQuery" /></span>
-    <span><img src="https://skillicons.dev/icons?i=bootstrap"  alt="Bootstrap" title="Bootstrap" /></span>
+    <span><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" /></span>
+    <span><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" /></span>
+    <span><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" /></span>
+    <span><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" title="NextJs" /></span>
+    <span><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></span>
+    <span><img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" /></span>
+    <span><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery" /></span>
+    <span><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" /></span>
 </p>
 
 ### 🧰 Tools
@@ -113,18 +87,18 @@ I'm a passionate software engineer with a deep love for building innovative solu
 
 ###
 
-<div align="left" style="background-color: #04011e; width: 100%; padding: 10px 0px;">
-    <div align="left" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; ">
-        <img src="https://github-readme-stats.vercel.app/api?username=evilmagics&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=true&order=1&bg_color=04011e" height="150" alt="stats graph" style="width: calc(50% - 5px); margin-right: 10px; background-color: #04011e;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evilmagics&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&bg_color=04011e" height="150" alt="languages graph" style="width: calc(50% - 5px); background-color: #04011e;"  />
+<div align="left"">
+    <div align="center" style="color:#f1f4f4;">
+        <img src="https://streak-stats.demolab.com?user=evilmagics&hide_border=true&border_radius=0&mode=weekly&background=04011e00&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=F1F4F4" height="250" alt="streak graph" />
     </div>
-    <div align="left" style="display: flex; justify-content: center; width: 100%; ">
-        <img src="https://streak-stats.demolab.com?user=evilmagics&hide_border=true&border_radius=0&mode=weekly&background=04011e&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=AFC1EB" height="200" alt="streak graph" />
+    <div align="center" bgcolor="#04011e"  >
+        <img src="https://github-readme-stats.vercel.app/api?username=evilmagics&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=ffffff00&text_color=f1f4f4&icon_color=14E3EB" width="49%" height="150" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evilmagics&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=00000000&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
     </div>
-    <div align="left" style="display: flex; justify-content: center; width: 100%; padding: 10px 0px;">
-        <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=algolia&column=-1&row=1&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" style="width: 95%;" />
+    <div align="center">
+        <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=flat&column=4&row=2&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" />
     </div>
-    <div align="left" style="display: flex; justify-content: center; width: 100%; padding: 20px 0px;">
+    <div align="center">
         <img src="https://raw.githubusercontent.com/evilmagics/evilmagics/output/snake.svg" alt="Snake animation" />
     </div>
 </div>
