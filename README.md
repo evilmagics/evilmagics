@@ -96,7 +96,7 @@ I'm a passionate software engineer with a deep love for building innovative solu
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evilmagics&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=00000000&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
     </div>
     <div align="center">
-        <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=flat&column=4&row=2&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" />
+        <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=matrix&column=4&row=2&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" />
     </div>
     <div align="center">
         <img src="https://raw.githubusercontent.com/evilmagics/evilmagics/output/snake.svg" alt="Snake animation" />
