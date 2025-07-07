@@ -29,59 +29,63 @@ I'm a passionate software engineer with a deep love for building innovative solu
 
 ### ⚔️ Languages
 <p align="left">
-    <span><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="40" /></span>
-    <span><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="40"/></span>
-    <span><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="40"/></span>
+    <span><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=bash"  alt="Bash" title="Bash" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40"/></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40"/></span>&nbsp;
 </p>
 
 ### 📚 Frameworks and Libraries
 <p align="left" class="icon-badges">
-    <span><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" /></span>
-    <span><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" /></span>
-    <span><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" /></span>
-    <span><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" title="NextJs" /></span>
-    <span><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></span>
-    <span><img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" /></span>
-    <span><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery" /></span>
-    <span><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" /></span>
+    <span><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" title="NextJs" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=opencv" alt="Bootstrap" title="Bootstrap" height="40" /></span>&nbsp;
 </p>
 
 ### 🧰 Tools
 
 <p align="left" class="icon-badges">
-    <span><img src="https://skillicons.dev/icons?i=vscode"  alt="VS Code" title="VS Code" /></span>
-    <span><img src="https://skillicons.dev/icons?i=sublime"  alt="Sublime" title="Sublime" /></span>
-    <span><img src="https://skillicons.dev/icons?i=git"  alt="Git" title="Git" /></span>
-    <span><img src="https://skillicons.dev/icons?i=docker"  alt="Docker" title="Docker" /></span>
-    <span><img src="https://skillicons.dev/icons?i=nginx"  alt="Nginx" title="Nginx" /></span>
-    <span><img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" title="NodeJS" /></span>
-    <span><img src="https://skillicons.dev/icons?i=bun"  alt="Bun" title="Bun" /></span>
-    <span><img src="https://skillicons.dev/icons?i=yarn"  alt="Yarn" title="Yarn" /></span>
-    <span><img src="https://skillicons.dev/icons?i=vite"  alt="Vite" title="Vite" /></span>
-    <span><img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL" title="MySQL" /></span>
-    <span><img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" title="MongoDB" /></span>
-    <span><img src="https://skillicons.dev/icons?i=redis"  alt="Redis" title="Redis" /></span>
-    <span><img src="https://skillicons.dev/icons?i=sqlite"  alt="SQLite" title="SQLite" /></span>
-    <span><img src="https://skillicons.dev/icons?i=rabbitmq"  alt="RabbitMQ" title="RabbitMQ" /></span>
-    <span><img src="https://skillicons.dev/icons?i=firebase"  alt="Firebase" title="Firebase" /></span>
-    <span><img src="https://skillicons.dev/icons?i=prometheus"  alt="Prometheus" title="Prometheus" /></span>
-    <span><img src="https://skillicons.dev/icons?i=grafana"  alt="Grafana" title="Grafana" /></span>
-    <span><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" title="Figma" /></span>
-    <span><img src="https://skillicons.dev/icons?i=photoshop"  alt="Photoshop" title="Photoshop" /></span>
-    <span><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" title="Linux" /></span>
-    <span><img src="https://skillicons.dev/icons?i=bash"  alt="Bash" title="Bash" /></span>
-    <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" /></span>
-    <span><img src="https://skillicons.dev/icons?i=md"  alt="Markdown" title="Markdown" /></span>
-    <span><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" title="Notion" /></span>
-    <span><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" title="Postman" /></span>
-    <span><img src="https://skillicons.dev/icons?i=discord"  alt="Discord" title="Discord" /></span>
+    <span><img src="https://skillicons.dev/icons?i=vscode"  alt="VS Code" title="VS Code" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=sublime"  alt="Sublime" title="Sublime" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=atom"  alt="Sublime" title="Sublime" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=androidstudio"  alt="Sublime" title="Sublime" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=git"  alt="Git" title="Git" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=docker"  alt="Docker" title="Docker" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=nginx"  alt="Nginx" title="Nginx" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=heroku"  alt="Nginx" title="Nginx" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" title="NodeJS" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=bun"  alt="Bun" title="Bun" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=yarn"  alt="Yarn" title="Yarn" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=vite"  alt="Vite" title="Vite" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL" title="MySQL" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" title="MongoDB" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=redis"  alt="Redis" title="Redis" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=sqlite"  alt="SQLite" title="SQLite" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=rabbitmq"  alt="RabbitMQ" title="RabbitMQ" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=firebase"  alt="Firebase" title="Firebase" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=prometheus"  alt="Prometheus" title="Prometheus" height="40" /></span>
+    <span><img src="https://skillicons.dev/icons?i=grafana"  alt="Grafana" title="Grafana" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" title="Figma" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=photoshop"  alt="Photoshop" title="Photoshop" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" title="Linux" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=md"  alt="Markdown" title="Markdown" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" title="Notion" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" title="Postman" height="40" /></span>&nbsp;
+    <span><img src="https://skillicons.dev/icons?i=discord"  alt="Discord" title="Discord" height="40" /></span>&nbsp;
 </p>
 
 
@@ -96,7 +100,8 @@ I'm a passionate software engineer with a deep love for building innovative solu
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evilmagics&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=00000000&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
     </div>
     <div align="center">
-        <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=matrix&column=-1&row=1&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" />
+        <img src="http://localhost:8080/?username=evilmagics&theme=dark_flame&column=-1&row=1&margin-w=5&margin-h=0" alt="trophy graph" />
+        <!-- <img src="https://github-profile-trophy.vercel.app?username=evilmagics&theme=matrix&column=-1&row=1&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" /> -->
     </div>
     <div align="center">
         <img src="https://raw.githubusercontent.com/evilmagics/evilmagics/output/snake.svg" alt="Snake animation" />
